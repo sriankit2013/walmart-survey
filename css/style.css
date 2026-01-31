@@ -23,7 +23,7 @@
     --tw-ring-inset: ;
     --tw-ring-offset-width: 0px;
     --tw-ring-offset-color: #fff;
-    --tw-ring-color: rgb(253 179 49 / .5);
+    --tw-ring-color: rgb(0 113 220 / .5);
     --tw-ring-offset-shadow: 0 0 #0000;
     --tw-ring-shadow: 0 0 #0000;
     --tw-shadow: 0 0 #0000;
@@ -77,7 +77,7 @@
     --tw-ring-inset: ;
     --tw-ring-offset-width: 0px;
     --tw-ring-offset-color: #fff;
-    --tw-ring-color: rgb(253 179 49 / .5);
+    --tw-ring-color: rgb(0 113 220 / .5);
     --tw-ring-offset-shadow: 0 0 #0000;
     --tw-ring-shadow: 0 0 #0000;
     --tw-shadow: 0 0 #0000;
@@ -1382,7 +1382,7 @@ body {
 
 .bg-\[\#000352\] {
     --tw-bg-opacity: 1;
-    background-color: rgb(253 179 49 / var(--tw-bg-opacity, 1))
+    background-color: rgb(0 113 220 / var(--tw-bg-opacity, 1))
 }
 .bg-\[\#110352\] {
     --tw-bg-opacity: 1;
@@ -1421,7 +1421,7 @@ body {
 
 .bg-blue-500 {
     --tw-bg-opacity: 1;
-    background-color: rgb(253 179 49 / var(--tw-bg-opacity, 1))
+    background-color: rgb(0 113 220 / var(--tw-bg-opacity, 1))
 }
 
 .bg-border {
@@ -1840,7 +1840,7 @@ body {
 
 .text-\[\#000352\] {
     --tw-text-opacity: 1;
-    color: rgb(253 179 49 / var(--tw-text-opacity, 1))
+    color: rgb(0 113 220 / var(--tw-text-opacity, 1))
 }
 .text-\[\#110352\] {
     --tw-text-opacity: 1;
@@ -1854,7 +1854,7 @@ body {
 
 .text-\[\#365899\] {
     --tw-text-opacity: 1;
-    color: rgb(253 179 49 / var(--tw-text-opacity, 1))
+    color: rgb(0 113 220 / var(--tw-text-opacity, 1))
 }
 
 .text-accent-foreground {
@@ -1863,7 +1863,7 @@ body {
 
 .text-blue-500 {
     --tw-text-opacity: 1;
-    color: rgb(253 179 49 / var(--tw-text-opacity, 1))
+    color: rgb(0 113 220 / var(--tw-text-opacity, 1))
 }
 
 .text-blue-700 {
@@ -2418,7 +2418,7 @@ body {
 
 .focus\:ring-blue-500:focus {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(253 179 49 / var(--tw-ring-opacity, 1))
+    --tw-ring-color: rgb(0 113 220 / var(--tw-ring-opacity, 1))
 }
 
 .focus\:ring-ring:focus {
